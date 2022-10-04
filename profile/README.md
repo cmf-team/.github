@@ -1,7 +1,7 @@
 CMF Github
 ==========
 
-This is an organisation to hold and develop computational projects by CMF. 
+This is an organisation to hold and develop computational, data and teaching projects by CMF. 
 
 We see there are two types of projects in CMF Github organisation in 2022:
 
