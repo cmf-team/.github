@@ -26,8 +26,13 @@ To start a new repo:
 - think of project name and tagline 
 - write to `Github CMF` Telegram group or [@epoepo](https://t.me/epoepo) 
 
+Suggested practice:
+
+- stale / inactive repos acrchived or passed back to owners
+
 Contacts:
 
 - `Github CMF` Telegram group
 - [@epoepo](https://t.me/epoepo) - Evgeniy Pogrebnyak 
+- <https://cmf-team.github.io/>
 
