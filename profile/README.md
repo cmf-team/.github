@@ -5,8 +5,8 @@ This is a Github organisation to hold and develop computational, data and teachi
 
 There are two types of projects in CMF Github organisation in 2022:
 
-1. **open source projects** that anyone outside CMF can use and contribute to (eg packages, open learning materials)
-2. **lab projects** that are used by CMF teams to complete assignements by tutors
+1. open source projects that anyone outside CMF can use and contribute to (eg packages, open learning materials)
+2. lab projects that are used by CMF teams to complete assignements by tutors
 
 Open source:
 
